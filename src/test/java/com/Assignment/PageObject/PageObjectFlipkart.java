@@ -1,4 +1,4 @@
-package com.BinaryInformaticsAssignment.PageObject;
+package com.Assignment.PageObject;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;

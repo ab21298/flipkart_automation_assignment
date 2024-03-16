@@ -1,4 +1,4 @@
-package com.BinaryInformaticsAssignment.Utils;
+package com.Assignment.Utils;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

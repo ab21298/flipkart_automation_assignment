@@ -1,12 +1,12 @@
-package com.BinaryInformaticsAssignment.TestCases;
+package com.Assignment.TestCases;
 
-import com.BinaryInformaticsAssignment.PageObject.PageObjectFlipkart;
-import com.BinaryInformaticsAssignment.Utils.BrowserManager;
+import com.Assignment.PageObject.PageObjectFlipkart;
+import com.Assignment.Utils.BrowserManager;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TC_AddAndDeleteItemFromCart {
+public class AddAndDeleteItemFromCart {
     String url = "https://www.flipkart.com/";
     @Test
     public void TC_AddAndDeleteProductFromCart(){
